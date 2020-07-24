@@ -146,6 +146,3 @@ resources/*.jpg
 resources/*.png
 resources/*.mp4
 resources/*.pdf
-
-
-virtual_paint.py
