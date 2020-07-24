@@ -139,10 +139,9 @@ dmypy.json
 chapter1.py
 color_picker.py
 document_scanner.py
-face_detection.py
 
-resources/haarcascade_frontalface_default.xml
 resources/*.jpg
-resources/*.png
+resources/*.jpg
+!resources/car.jpg
 resources/*.mp4
 resources/*.pdf
