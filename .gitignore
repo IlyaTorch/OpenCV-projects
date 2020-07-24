@@ -138,10 +138,10 @@ dmypy.json
 .idea/vcs.xml
 chapter1.py
 color_picker.py
-document_scanner.py
 
 resources/*.jpg
 resources/*.jpg
 !resources/car.jpg
+!resources/receipt.jpg
 resources/*.mp4
 resources/*.pdf
